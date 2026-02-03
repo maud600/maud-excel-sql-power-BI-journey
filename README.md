@@ -7,16 +7,14 @@ The goal of this portfolio is not perfection, but **evidence of learning, logica
 ## How to Navigate This Repository
 ## Project Structure
 Projects are organised by weeks to show clear learning progression:
-
-* **Excel/** – Foundational to analytical-level projects, organized by learning stage (Week 1–3)
-* **SQL/** – Query logic and data reasoning, structured similarly for clarity
-* **Power BI/** – (In progress) Visualization and reporting projects built on the same datasets
-  
-## | Level  | Projects                |
-| ------ | ----------------------- |
+## | Level  | Projects             
 | Week 1 | 1–3 small projects      |
 | Week 2 | 2–4 medium projects     |
 | Week 3 | 1–2 analytical projects |
+
+* **Excel/** – Foundational to analytical-level projects, organized by learning stage (Week 1–3)
+* **SQL/** – (In progress) Query logic and data reasoning, structured similarly for clarity
+* **Power BI/** – (In progress) Visualization and reporting projects built on the same datasets
 
 ## Why This Repository
 I created this repository to:
