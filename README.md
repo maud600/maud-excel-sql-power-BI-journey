@@ -7,7 +7,9 @@ The goal of this portfolio is not perfection, but **evidence of learning, logica
 ## How to Navigate This Repository
 ## Project Structure
 Projects are organised by weeks to show clear learning progression:
-## | Level  | Projects             
+##
+| Level  | Projects                |
+| ------ | ----------------------- |
 | Week 1 | 1–3 small projects      |
 | Week 2 | 2–4 medium projects     |
 | Week 3 | 1–2 analytical projects |
@@ -32,5 +34,3 @@ I created this repository to:
 * Readiness to grow into more advanced analytics and domain-specific work (e.g. health data)
   
 This repository will continue to evolve as my skills deepen and my projects become more domain-focused.
-This repository will continue to evolve as my skills deepen and my projects become more domain-focused.
-
